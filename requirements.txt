@@ -1,0 +1,9 @@
+matplotlib==3.10.5
+numpy==2.3.2
+pandas==2.3.1
+scikit_learn==1.7.1
+torch==2.6.0+cu126
+tqdm==4.67.1
+scipy==1.16.0
+sympy==1.13.1
+tensorboard==2.20.0

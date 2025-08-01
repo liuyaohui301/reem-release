@@ -1,0 +1,1 @@
+((in1temp * 0.84222114) - ((Power * 4.000453) - 3.4977863)) - (((((outtemp * -0.054116324) - Power) - Power) - Power) - Power)
