@@ -13,4 +13,6 @@ Specifically, `ReeM` formulates the ensemble task as a two-level decision-making
 
 Our on-site experiments confirm that `ReeM` can achieve 47.5\% improvement in modeling prediction accuracy, and a significant 8.7\% energy saving in real HVAC control.
 
+![on-site deployment setup](pic/on-site%20deployment%20setup.jpg)
+
 ![reem on-site deployment](pic/reem%20on-site%20deployment.jpg)
