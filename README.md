@@ -6,6 +6,8 @@
 - [Repository Structure](#repository-structure)
 - [Introduction](#introduction)
 
+-------------------
+
 ## Installations
 
 ### Step 1. Clone the repository:
